@@ -5,5 +5,5 @@ Learning github</br>
 -> git pull</br>
 -> git commit</br>
 -> git branch</br>
--> git workout</br>
+-> git checkout</br>
 -> git push</br>
