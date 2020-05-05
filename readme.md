@@ -1,9 +1,9 @@
 # A Testing Repository For Learing purpose
 
-Learning github
--> git clone
--> git pull
--> git commit
--> git branch
--> git workout
--> git push
+Learning github</br>
+-> git clone</br>
+-> git pull</br>
+-> git commit</br>
+-> git branch</br>
+-> git workout</br>
+-> git push</br>
