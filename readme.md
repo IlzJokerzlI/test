@@ -6,4 +6,5 @@ Learning github</br>
 -> git commit: commit after changes have been done</br>
 -> git branch: List all the existing branches</br>
 -> git workout: Changes to existing branch</br>
+-> git merge: Merge branches</br>
 -> git push: Pushes to github</br>
