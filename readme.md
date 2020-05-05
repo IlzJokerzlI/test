@@ -7,4 +7,5 @@ Learning github</br>
 -> git branch: List all the existing branches</br>
 -> git checkout: Changes to existing branch</br>
 -> git merge: Merge branches</br>
+-> git rm --cached: remove commit</br>
 -> git push: Pushes to github</br>
